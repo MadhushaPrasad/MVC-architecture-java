@@ -31,7 +31,7 @@ import tableModel.EmployeeTM;
 /**
  * FXML Controller class
  *
- * @author chandrabanu
+ * @author Madhusha Prasad
  */
 public class FxmlController implements Initializable {
 

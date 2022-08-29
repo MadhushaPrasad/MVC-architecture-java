@@ -7,7 +7,7 @@ package tableModel;
 
 /**
  *
- * @author chandrabanu
+ * @author Madhusha Prasad
  */
 public class EmployeeTM {
     String eid;
